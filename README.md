@@ -1,4 +1,4 @@
-# GuiCreator
+# GuiManager
 A small project with code that can be use to create inventory easily for spigot plugin, can simply copy and paste to use!
 # Install
 You can simply copy the code then paste it into your project and use it as your own code!
